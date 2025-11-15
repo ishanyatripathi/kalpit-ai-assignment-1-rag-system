@@ -84,3 +84,7 @@ Type “exit” to quit.
 ASSIGNMENT STATUS
 
 Assignment 1 completed successfully.
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc015413-d490-4bef-8d39-87ed67589739" />
+
